@@ -1,5 +1,5 @@
 # Shubham Nakashe
-##Develop a responsive landing page with a clean and user-friendly design.
+### Develop a responsive landing page with a clean and user-friendly design.
 
 # NOTE: This page is not having any backend connected but i am using EMAIL JS you can check your mail box, for the message retrieval. THANKYOU
 <br>
