@@ -1,10 +1,36 @@
 The page should include:
-o	A navbar
-o	A hero section
-o	A services or features section
-o	A contact form with basic JavaScript validations
-•	The form should include the following fields with proper validation:
-o	Name (Required, minimum 3 characters)
-o	Email (Required, must be a valid email format)
-o	Phone Number (Required, 10-digit numeric value)
-o	Message (Required, minimum 10 characters)
+<ul>
+  <li>
+  A navbar
+  </li>
+  
+  <li> 
+	A hero section
+  </li>
+	
+ 
+  <li>
+  A services or features section  
+  </li>
+  
+  <li> 
+	A contact form with basic JavaScript validations:
+	The form should include the following fields with proper validation:
+  </li>
+  <ol>
+  
+  <li> 
+	Name (Required, minimum 3 characters)
+  </li>
+  <li>
+	Email (Required, must be a valid email format)
+  </li>
+  <li>
+	Phone Number (Required, 10-digit numeric value)
+  </li>
+  
+  <li>
+	Message (Required, minimum 10 characters)
+  </li>
+  </ol>
+</ul>
