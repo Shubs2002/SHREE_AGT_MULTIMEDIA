@@ -1,7 +1,7 @@
-#Shubham Nakashe
+# Shubham Nakashe
 ##Develop a responsive landing page with a clean and user-friendly design.
 
-#NOTE: This page is not having any backend connected but i am using EMAIL JS you can check your mail box, for the message retrieval. THANKYOU
+# NOTE: This page is not having any backend connected but i am using EMAIL JS you can check your mail box, for the message retrieval. THANKYOU
 <br>
 
 The page should include:
@@ -50,6 +50,6 @@ Share the completed project via a live link along with access to the source code
 </li>
 
 </ul>
-##Submission Deadline:
+## Submission Deadline:
 <br>
 Please complete and submit the task within 2 days (5nd March 2025).
