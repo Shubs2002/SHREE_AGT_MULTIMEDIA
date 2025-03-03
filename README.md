@@ -48,8 +48,8 @@ Ensure the entire page and form are mobile responsive and work seamlessly across
 <li>
 Share the completed project via a live link along with access to the source code.
 </li>
-
 </ul>
+
 ## Submission Deadline:
 <br>
 Please complete and submit the task within 2 days (5nd March 2025).
