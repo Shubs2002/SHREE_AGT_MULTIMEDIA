@@ -1,5 +1,7 @@
 #Shubham Nakashe
 ##Develop a responsive landing page with a clean and user-friendly design.
+
+#NOTE: This page is not having any backend connected but i am using EMAIL JS you can check your mail box, for the message retrieval. THANKYOU
 <br>
 
 The page should include:
@@ -37,4 +39,17 @@ The page should include:
 	Message (Required, minimum 10 characters)
   </li>
   </ol>
+<li>
+Display validation messages for incorrect inputs.
+</li>
+<li>
+Ensure the entire page and form are mobile responsive and work seamlessly across different screen sizes.
+</li>
+<li>
+Share the completed project via a live link along with access to the source code.
+</li>
+
 </ul>
+##Submission Deadline:
+<br>
+Please complete and submit the task within 2 days (5nd March 2025).
