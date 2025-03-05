@@ -88,7 +88,7 @@ The contact form includes the following fields with validation:
 ---
 
 ### 📞 Contact
-For any queries or assistance, feel free to reach out. 🚀
+For any queries or assistance, feel free to reach out. <a href="mailto:s.d.nakashe2002@gmail.com">s.d.nakashe2002@gmail.com</a>  🚀
 
 ---
 
