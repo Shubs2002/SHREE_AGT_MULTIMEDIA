@@ -1,12 +1,67 @@
-# React + Vite
+# Shubham Nakashe
+### Develop a responsive landing page with a clean and user-friendly design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# NOTE: This page is not having any backend connected but i am using EMAIL JS you can check your mail box, for the message retrieval. THANKYOU
+<br>
 
-Currently, two official plugins are available:
+## Installation and Setup:
+<ol>
+<li>Download/Clone the Repository</li>
+<li>Unzip the folder(if downloaded)</li>
+<li>check and Move inside of the directory Shreeagtmultimedia</li> 
+<li>Intall all the dependencies  `npm i` </li>
+<li>start the code by following command `npm run dev` </li>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
+</ol>
 
-## Expanding the ESLint configuration
+## Contents
+The page should include:
+<ul>
+  <li>
+  A navbar
+  </li>
+  
+  <li> 
+	A hero section
+  </li>
+	
+ 
+  <li>
+  A services or features section  
+  </li>
+  
+  <li> 
+	A contact form with basic JavaScript validations:
+	The form should include the following fields with proper validation:
+  </li>
+  <ol>
+  
+  <li> 
+	Name (Required, minimum 3 characters)
+  </li>
+  <li>
+	Email (Required, must be a valid email format)
+  </li>
+  <li>
+	Phone Number (Required, 10-digit numeric value)
+  </li>
+  
+  <li>
+	Message (Required, minimum 10 characters)
+  </li>
+  </ol>
+<li>
+Display validation messages for incorrect inputs.
+</li>
+<li>
+Ensure the entire page and form are mobile responsive and work seamlessly across different screen sizes.
+</li>
+<li>
+Share the completed project via a live link along with access to the source code.
+</li>
+</ul>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Submission Deadline:
+<br>
+Please complete and submit the task within 2 days (5nd March 2025).
