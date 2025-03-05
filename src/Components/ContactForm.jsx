@@ -59,7 +59,7 @@ const ContactForm = () => {
   };
 
   return (
-    <Container maxWidth="sm">
+    <Container id="contact" maxWidth="sm">
       <Box sx={{ textAlign: "center", my: 4 }}>
         <Typography variant="h4" sx={{ fontWeight: "bold", mb: 2, color: "#8552fd" }}>
           Contact Us
