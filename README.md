@@ -74,8 +74,8 @@ The contact form includes the following fields with validation:
 ---
 
 ## 📤 Submission Details
-- The completed project will be shared via a **live link**.
-- The **source code** will be available in a public repository.
+- The completed project is been shared via a **live link**. (Check below)
+- The **source code** will be available in a public repository.(Check below) 
 
 ### 📅 Deadline: **5th March 2025**
 
