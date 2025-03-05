@@ -14,7 +14,7 @@ Follow the steps below to set up and run the project:
 1. **Download/Clone the Repository**  
    - Clone the repository using:  
      ```sh
-     git clone <repository_url>
+     git clone https://github.com/Shubs2002/SHREE_AGT_MULTIMEDIA
      ```
    - Or download the ZIP file and extract it.
 
